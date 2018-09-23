@@ -6,10 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Biography
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I’m a Ph.D. student in LERSSE working under the supervision of Pro. Konstanin Beznosov. My current researches focus on studying privacy and security problems of smart speakers. And I’m always exploring to learn new knowledge and meet new friends.
 
-```markdown
-Syntax highlighted code block
 
 # Research
 ## Projects
