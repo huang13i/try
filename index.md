@@ -1,5 +1,5 @@
 ## Welcome to my webpage
-
+![Image](src)
 You can use the [editor on GitHub](https://github.com/huang13i/try/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -9,16 +9,20 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 I’m a Ph.D. student in LERSSE working under the supervision of Pro. Konstanin Beznosov. My current researches focus on studying privacy and security problems of smart speakers. And I’m always exploring to learn new knowledge and meet new friends.
 
 
-# Research
-## Projects
+### Research
+- Bulleted
+  1. Numbered
+  2. bababba
+  3. badasda
+- Bulleted
+### Projects
+- Bulleted
+- Bulleted
 ### Publication
+- Bulleted
+- Bulleted
 #### Contact Information
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
