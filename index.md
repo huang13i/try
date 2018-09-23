@@ -26,7 +26,7 @@ I’m a Ph.D. student in LERSSE working under the supervision of Pro. Konstanin 
 
 **Bold** and _Italic_ and `Code` text
 
-[huang13i@uwindsor.ca](url) and ![Image](src)
+[Email](huang13i@uwindsor.ca) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
